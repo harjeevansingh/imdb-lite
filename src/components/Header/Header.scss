@@ -2,11 +2,11 @@
 
 .header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     background-color: $secondary-color;
     height: 72px;
-    // padding: 0px 40px;
+    padding: 0px 40px;
 }
 
 .logo{

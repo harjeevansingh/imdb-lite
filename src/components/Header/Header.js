@@ -7,7 +7,7 @@ const header = () => {
   return (
     <div className="header">
       <Link to="/">
-        <div className="logo">Movie App</div>
+        <div className="logo">IMDb Lite</div>
       </Link>
       <div className="user-image">
         <img src={user} alt="user-image" />
